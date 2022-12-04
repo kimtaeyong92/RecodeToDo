@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317160254970",
+    "project_id": "recodetodo",
+    "storage_bucket": "recodetodo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317160254970:android:5f9869df6acf46a6480843",
+        "android_client_info": {
+          "package_name": "com.kty.recodetodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317160254970-5tk5jofuktf8oocmqonktrjfgvk4hh0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaN-kKiBn94w_Vw8AQRgOCw31YoTNup7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317160254970-5tk5jofuktf8oocmqonktrjfgvk4hh0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
